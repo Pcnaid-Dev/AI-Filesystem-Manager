@@ -1,5 +1,5 @@
 
-High-Level Workflow
+High-Level Workflow (Revised for GPU & Web UI)
 
 1. Application Configuration
 	•	The user or admin defines directories (local/remote) to monitor, file types to index, scheduling rules, and which AI models to use (OCR, face recognition, etc.).
